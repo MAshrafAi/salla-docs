@@ -1,0 +1,9 @@
+# Everything
+*
+
+# Except skills and repo essentials
+!skills/
+!skills/**
+!README.md
+!LICENSE
+!.gitignore
