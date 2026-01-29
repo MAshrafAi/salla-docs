@@ -2,8 +2,9 @@
 *
 
 # Except skills and repo essentials
-!skills/
+!SKILL.md
 !skills/**
 !README.md
 !LICENSE
 !.gitignore
+!references
