@@ -141,7 +141,3 @@ Then Read the matching file. For files over 2000 lines (some API endpoint specs)
 | `getting-started.md` | Getting started guides, API overview, additional resources |
 | `docs--*.md` | API changelog, rate limiting, webhooks guide, app functions guide, theme architecture overview |
 | `learn-what-you'll-learn--*.md` | Learning resources |
-
-## Scripts
-
-- `scripts/consolidate.py` — Rebuilds all reference files from the raw `docs/` directory. Run if source docs are updated.
