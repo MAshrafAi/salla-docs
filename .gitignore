@@ -1,10 +1,1 @@
-# Everything
-*
-
-# Except skills and repo essentials
-!SKILL.md
-!skills/**
-!README.md
-!LICENSE
-!.gitignore
-!references/
+/docs
